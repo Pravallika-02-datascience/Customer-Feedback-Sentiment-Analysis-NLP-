@@ -48,7 +48,7 @@ python Sentiment_Analysis_clean.py
 - The notebook contains the EDA and model evaluation results. Key model(s) and metrics (e.g. accuracy, cross-validation score) are available in the notebook outputs.
 - Typical pipeline: text cleaning → tokenization → TF-IDF → model training (Logistic Regression often performs well for baseline) → evaluation.
 
-
+Streamlit file link : https://sentimentanalysis-app-ctenkjk48urxzuudzft2pk.streamlit.app/
 
 
 ## Contact
